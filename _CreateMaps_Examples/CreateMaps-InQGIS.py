@@ -16,13 +16,13 @@ https://hg-map.fr/tutos/73-qgis-et-python
 
 Check/change the names and directories used by layers below "Path of layers".
 
-Then just run this code!
+Then just run this code in the QGIS Python console (from the editor)!
 
 Other PyQgis tips here:
-https://hg-map.fr/astuces/84-pyqgis
+https://hg-map.fr/astuces/84
 
 Other standalone PyQgis tips here:
-https://hg-map.fr/astuces/85-pyqgis
+https://hg-map.fr/astuces/85
 """
 
 from PyQt5 import *
